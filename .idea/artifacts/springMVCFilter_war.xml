@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springMVCFilter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springMVCFilter.war">
+      <element id="artifact" artifact-name="springMVCFilter:war exploded" />
+    </root>
+  </artifact>
+</component>
